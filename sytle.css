@@ -1,0 +1,99 @@
+body{
+    background: white;
+    margin: 0;
+    padding: 0;
+}
+
+.retangulo {
+    width: 300px;
+    height: 1200px;
+    background-color: chocolate;
+    border: rgb(25, 25, 207);
+    position: absolute;
+    margin-top: -60px;
+}
+
+img {
+    position: absolute;
+    border-radius: 50%;
+    margin-top: 7rem;
+    margin-left: 3rem;
+    width: 200px;
+    height: 200px;
+    
+}
+
+.nome{
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    margin: 50px;
+    padding: 200px;
+    margin-left: 150px;
+    margin-top: -100px;
+}
+.n2{
+    color: red;
+    margin-top: -143px;
+    margin-left: 210px;    
+}
+.n3{
+    color: red;
+    margin-top: -144px;
+    margin-left: 340px;
+}
+
+.rua{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 345px;
+}
+
+.n4{
+    margin-top: -35.5px;
+    margin-left: 332px;
+    color: red;
+}
+
+.fras{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 7px;
+    position: absolute;
+    margin-left:340px;
+    margin-top: 320px; 
+}
+
+.info{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 9.5px;
+    color: rgba(255, 255, 255, 0.521);
+    position: relative;
+    position: absolute;
+    top: 30%;
+    margin-left:115px;
+    position: absolute;
+    text-align: center;
+    margin-left: 70px
+    
+}
+
+.sobre{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 9.5px;
+    color: rgba(255, 255, 255, 0.521);
+    position: relative;
+    position: absolute;
+    top: 30%;
+    margin-left:115px;
+    position: absolute;
+    text-align: center;
+    margin-left: 70px
+    
+position: absolute;
+color: white;
+}
+
+
